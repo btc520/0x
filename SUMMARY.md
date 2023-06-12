@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Readme](README.md)
+* [mjmeta](mjmeta/mjmeta.md)
 
-* [mjmeta 444](MJMeta/mjmeta.md)
+* [test page](readme.md)
 
 * [matchnova](matchnova/matchnova.md)
