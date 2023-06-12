@@ -2,6 +2,9 @@
 
 * [mjmeta](mjmeta/mjmeta.md)
 
-* [test page](readme.md)
+* [test page](test-page.md)
+
+* [readme](readme.md)
+
 
 * [matchnova](matchnova/matchnova.md)
