@@ -1,5 +1,4 @@
 # Table of contents
 
-* [MJMeta](README.md)
-  * [mjmeta 444](MJMeta/mjmeta.md)
+* [mjmeta 444](README.md)
 * [test page](test-page.md)
