@@ -1,9 +1,6 @@
 # Table of contents
 
-* [mjmeta 123](MJMeta/mjmeta.md)
-
-
-* [matchnova](matchnova/matchnova.md)
-
-* [test page 321](test-page.md)
-
+* [README](README.md)
+* [MJMeta](MJMeta/mjmeta.md)
+* [MatchNova -  消消乐](matchnova/matchnova.md)
+* [test page 321 测试页面](test-page.md)
