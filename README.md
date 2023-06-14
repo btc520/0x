@@ -55,3 +55,7 @@ https://trends.google.com/trends/explore?date=today%203-m&q=yuliverse,mjmeta,mat
 - https://app.tinyworlds.io/
 
 [[yuliverse]] - 垃圾
+
+world of fairy - 农场游戏 
+- 抄袭向日葵
+- DC 特别的卷, KOL发白搞热度, PUA严重 
