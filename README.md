@@ -36,7 +36,22 @@
 
 ## GAMEFI 存在的问题
 
-- 游戏性差 代币基本都是挖提卖
+- 游戏性可玩性怎么样 ?? 
+  - 差 代币基本都是挖提卖 死的很快
+
+- 先发代币? 也是垃圾
+- 检查细节设计是否完善
+- google trend 检查海外热度
+
 
 gamefi hot compare 
 https://trends.google.com/trends/explore?date=today%203-m&q=yuliverse,mjmeta,matchnova&hl=en
+
+
+## 游戏筛选
+
+小小王国 - 垃圾游戏 
+- https://twitter.com/tinyworldgamefi
+- https://app.tinyworlds.io/
+
+[[yuliverse]] - 垃圾
