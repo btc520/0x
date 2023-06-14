@@ -31,3 +31,12 @@
 麻将还在早期, 活动最多2个月, 已经过去1个月, 快要正式版了.&#x20;
 
 跑鞋资金盘的收益已经下降了98%, 现在跑鞋第一的玩家每天还能跑两万U. 跑鞋第三的大佬也已经埋伏完消消乐几个月了.&#x20;
+
+
+
+## GAMEFI 存在的问题
+
+- 游戏性差 代币基本都是挖提卖
+
+gamefi hot compare 
+https://trends.google.com/trends/explore?date=today%203-m&q=yuliverse,mjmeta,matchnova&hl=en
