@@ -50,11 +50,20 @@ https://trends.google.com/trends/explore?date=today%203-m&q=yuliverse,mjmeta,mat
 
 ## 游戏筛选
 
+| game           | playerable |     |     |     |     |
+| -------------- | ---------- | --- | --- | --- | --- |
+| world of fairy | ??         |     |     |     |     |
+| [[yuliverse]]  | laji       |     |     |     |     |
+| tinyworld      | laji       |     |     |     |     |
+| valtower       | laji       |     |     |     |     |
+
+
 小小王国 - 垃圾游戏 
 - https://twitter.com/tinyworldgamefi
 - https://app.tinyworlds.io/
 
-[[yuliverse]] - 垃圾
+[[yuliverse]] 
+- 垃圾, 可以多研究一下
 
 world of fairy - 农场游戏 
 - 抄袭向日葵
