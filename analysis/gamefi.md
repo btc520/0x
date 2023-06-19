@@ -69,6 +69,10 @@ world of fairy - 农场游戏
 - 抄袭向日葵
 - DC 特别的卷, KOL发白搞热度, PUA严重 
 
+https://opensea.io/collection/originisland
+
+
+
 valtower - 还在观察中
 - 像素风格 还可以
 - 打怪, 使用卡片 
