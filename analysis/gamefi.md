@@ -70,7 +70,7 @@ world of fairy - 农场游戏
 - DC 特别的卷, KOL发白搞热度, PUA严重 
 
 https://opensea.io/collection/originisland
-
+https://element.market/collections/manornft
 
 
 valtower - 还在观察中
