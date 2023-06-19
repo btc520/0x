@@ -4,6 +4,12 @@
 
 ## 角色
 
+- Necromancer – frontline assault specialist, excellent crowd control
+- Barbarian – melee specialist, high damage potential
+- Sorcerer – ranged specialist, strong AoE abilities
+- Rogue – ranged and melee combo, highly adaptable skills
+- Druid – AoE and single-target mix, solid all-rounder
+
 ### 职业：野蛮人
 
 1、野蛮人是一个近战战士，该职业随身携带着“武器库”。
