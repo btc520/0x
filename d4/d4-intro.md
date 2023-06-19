@@ -1,5 +1,6 @@
 
 
+# d4-intro 
 
 ## 角色
 
@@ -73,5 +74,3 @@ https://www.youtube.com/watch?v=JH60j67r_e4&ab_channel=TheEggman
 https://www.gamersky.com/handbook/202306/1607966.shtml
 
 
-
-* [大地动物园](大地动物园.md)
