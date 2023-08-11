@@ -17,7 +17,7 @@
 * [风狼](d4/风狼.md)
 
 ## analysis 
-* [gamefi](analysis/gamefi.md)
+* [gamefi](../dajidali/3-category/gamefi/gamefi2.md)
 
 
 * [test page 321 测试页面](test-page.md)
